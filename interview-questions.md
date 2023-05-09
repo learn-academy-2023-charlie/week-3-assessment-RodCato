@@ -53,3 +53,5 @@ Researched answer: Div tag is used to group HTML elements together is commonly u
 4. Ruby blocks: In Ruby, a block is a piece of code that can be passed to a method as an argument. When a block is passed to a method, the method can yield control to the block, which can then execute its code and return control to the method. It is commonly used for iterating over arrays and hashes.
 
 5. Ruby hashes: A Ruby hash is a data structure that stores data in key-value pairs. It is similar to an array, but instead of using integer indices to access elements, a hash uses keys, which can be any object.
+
+//Edit to recommit to branch
